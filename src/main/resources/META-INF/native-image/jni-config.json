@@ -1,0 +1,6 @@
+[
+  {
+    "name" : "org.pkg.apinative.Native",
+    "methods":[{"name":"callback","parameterTypes":["int"] }]
+  }
+]
